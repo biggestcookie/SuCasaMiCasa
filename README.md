@@ -3,7 +3,7 @@
 A cooperative escape game, made for Global Game Jam 2019 at Georgia State University. The game revolves around a heist, where two players take the roles of a burglar and an operator. The burglar explores the house via a game application, built with Ren'Py, while the operator sits away from the burglar and reads hacked information to the burglar via a web page.
 
 
-Download the Ren'Py game via the [releases page]() or the [Global Game Jam page](https://globalgamejam.org/2019/games/su-casa-mi-casa), and access the web page at https://casa-operator.glitch.me
+Download the Ren'Py game via the [releases page](https://github.com/biggestcookie/SuCasaMiCasa-game/releases) or the [Global Game Jam page](https://globalgamejam.org/2019/games/su-casa-mi-casa), and access the web page at https://casa-operator.glitch.me
 
 ## Building
 
@@ -11,9 +11,9 @@ Download the Ren'Py game via the [releases page]() or the [Global Game Jam page]
 
 [Ren'Py 7.1.3+](https://www.renpy.org/latest.html)
 
-The [`renpy-game`]() folder can be transferred to your Ren'Py installation folder. Once moved you can follow the instructions to [build](https://www.renpy.org/doc/html/build.html) or [open](https://www.renpy.org/doc/html/quickstart.html#the-ren-py-launcher) the project.
+The [`renpy-game`](https://github.com/biggestcookie/SuCasaMiCasa-game/tree/master/renpy-game) folder can be transferred to your Ren'Py installation folder. Once moved you can follow the instructions to [build](https://www.renpy.org/doc/html/build.html) or [open](https://www.renpy.org/doc/html/quickstart.html#the-ren-py-launcher) the project.
 
-The [`website`]() folder contains a static web page. The [`index.html`]() file in there can be opened in most modern web browsers.
+The [`website`](https://github.com/biggestcookie/SuCasaMiCasa-game/tree/master/website) folder contains a static web page. The [`index.html`](https://github.com/biggestcookie/SuCasaMiCasa-game/blob/master/website/index.html) file in there can be opened in most modern web browsers.
 
 ## Game Premise
 

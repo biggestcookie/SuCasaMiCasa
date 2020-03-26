@@ -1,0 +1,79 @@
+/* CSS files add styling rules to your content */
+@import url("https://fonts.googleapis.com/css?family=Orbitron");
+@font-face {
+  font-family: "Wingdings";
+  src: url("./fonts/Wingdings.ttf");
+}
+
+body {
+  font-family: "Orbitron", "Benton Sans", "Helvetica Neue", helvetica, arial,
+    sans-serif;
+  margin: 2em;
+  background-color: black;
+  background-image: url("../img/background.gif");
+  color: #e6f9ff;
+}
+
+@media (min-width: 750px) {
+  .main {
+    margin: auto;
+    width: 60%;
+  }
+}
+
+img {
+  max-width: 250px;
+  padding-bottom: 15px;
+}
+
+h1 {
+  text-shadow: 0 0 0px #fff, 0 0 2px #fff, 0 0 3px #00ace6, 0 0 4px #00ace6,
+    0 0 5px #00ace6, 0 0 6px #00ace6, 0 0 7px #00ace6;
+}
+
+p {
+  font-family: "Wingdings";
+  font-size: 27px;
+}
+
+.clues {
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: left;
+  background-color: black;
+  border: solid 1px #e6f9ff;
+  box-shadow: 0 0 0px #fff, 0 0 2px #fff, 0 0 3px #00ace6, 0 0 4px #00ace6,
+    0 0 5px #00ace6, 0 0 6px #00ace6, 0 0 7px #00ace6;
+}
+
+.button {
+  margin: 0;
+  min-width: 49%;
+  padding: 5px;
+  background-color: black;
+  border: solid 1px #e6f9ff;
+  box-shadow: 0 0 0px #fff, 0 0 2px #fff, 0 0 3px #00ace6, 0 0 4px #00ace6,
+    0 0 5px #00ace6, 0 0 6px #00ace6, 0 0 7px #00ace6;
+  color: #e6f9ff;
+  text-shadow: 0 0 0px #fff, 0 0 2px #fff, 0 0 3px #00ace6, 0 0 4px #00ace6,
+    0 0 5px #00ace6, 0 0 6px #00ace6, 0 0 7px #00ace6;
+}
+
+.glow {
+  color: #e6f9ff;
+  -webkit-animation: glow 50s ease-in-out infinite alternate;
+  -moz-animation: glow 15s ease-in-out infinite alternate;
+  animation: glow 3s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 0px #fff, 0 0 2px #fff, 0 0 3px #00ace6, 0 0 4px #00ace6,
+      0 0 5px #00ace6, 0 0 6px #00ace6, 0 0 7px #00ace6;
+  }
+
+  to {
+    text-shadow: 0 0 3px #fff, 0 0 4px #4dd2ff, 0 0 5px #4dd2ff, 0 0 7px #4dd2ff,
+      0 0 10px #4dd2ff, 0 0 15px #4dd2ff, 0 0 20px #4dd2ff;
+  }
+}

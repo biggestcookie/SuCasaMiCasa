@@ -5,6 +5,8 @@ A cooperative escape game, made for Global Game Jam 2019 at Georgia State Univer
 
 Download the Ren'Py game via the [releases page](https://github.com/biggestcookie/SuCasaMiCasa-game/releases) or the [Global Game Jam page](https://globalgamejam.org/2019/games/su-casa-mi-casa), and access the web page at https://casa-operator.glitch.me
 
+![Game Preview](https://raw.githubusercontent.com/biggestcookie/SuCasaMiCasa-game/1.0/renpy-game/images/room1.jpg)
+
 ## Building
 
 ### Requirements
@@ -14,9 +16,6 @@ Download the Ren'Py game via the [releases page](https://github.com/biggestcooki
 The [`renpy-game`](https://github.com/biggestcookie/SuCasaMiCasa-game/tree/master/renpy-game) folder can be transferred to your Ren'Py installation folder. Once moved you can follow the instructions to [build](https://www.renpy.org/doc/html/build.html) or [open](https://www.renpy.org/doc/html/quickstart.html#the-ren-py-launcher) the project.
 
 The [`website`](https://github.com/biggestcookie/SuCasaMiCasa-game/tree/master/website) folder contains a static web page. The [`index.html`](https://github.com/biggestcookie/SuCasaMiCasa-game/blob/master/website/index.html) file in there can be opened in most modern web browsers.
-
-
-![Game Preview](https://raw.githubusercontent.com/biggestcookie/SuCasaMiCasa-game/1.0/renpy-game/images/room1.jpg)
 
 ## Game Premise
 

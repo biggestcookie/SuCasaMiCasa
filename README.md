@@ -15,6 +15,9 @@ The [`renpy-game`](https://github.com/biggestcookie/SuCasaMiCasa-game/tree/maste
 
 The [`website`](https://github.com/biggestcookie/SuCasaMiCasa-game/tree/master/website) folder contains a static web page. The [`index.html`](https://github.com/biggestcookie/SuCasaMiCasa-game/blob/master/website/index.html) file in there can be opened in most modern web browsers.
 
+
+![Game Preview](https://raw.githubusercontent.com/biggestcookie/SuCasaMiCasa-game/1.0/renpy-game/images/room1.jpg)
+
 ## Game Premise
 
 A big-time heist duo have been privately contacted by a well-renowned artist to break into his studio. If they can slip in and out of his room in 15 minutes undetected, they may freely walk away with any and all of his belongings. The catch? Only one of them is allowed inside the room!
